@@ -17,8 +17,8 @@
       "dest": "/assets/$1"
     },
     {
-      "src": "/api/dicxoh.php",
-      "dest": "/api/dicxoh.php"
+      "src": "/api/pck9mm.php",
+      "dest": "/api/pck9mm.php"
     },
     {
       "src": "/(.*)",
